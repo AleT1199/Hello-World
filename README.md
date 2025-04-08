@@ -1,4 +1,2 @@
-# Hello-World
+# C reposituary
 My first repository
-
-Coffee is life!
