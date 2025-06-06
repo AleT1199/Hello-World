@@ -1,2 +1,3 @@
 # C reposituary
-My first repository
+
+This time I will learn something
