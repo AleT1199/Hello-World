@@ -11,6 +11,8 @@ int miain(){
     printf ("inserisci il secondo numero");
     Scanf ("%d", &b);
 
+    somma = a+b;
+
     printf ("la somma è: %d", somma);
 
     return 0;
